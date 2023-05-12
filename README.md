@@ -36,3 +36,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akash-152000&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-152000&show_icons=true&theme=gruvbox&text_color=ffca18&title_color=ffca18&icon_color=ffca18)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
