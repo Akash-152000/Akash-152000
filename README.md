@@ -17,7 +17,6 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Systems Engineer at Infosys.
 
 - :seedling: Creating Front and backend of web application.
 
